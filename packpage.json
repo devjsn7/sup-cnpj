@@ -1,0 +1,13 @@
+{
+  "name": "cnpj-api",
+  "version": "1.0.0",
+  "description": "API simples para consulta de CNPJ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
